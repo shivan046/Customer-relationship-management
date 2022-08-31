@@ -12,5 +12,5 @@ Teack stack
 
 Features:
 
-# Authentication syatem
+# Authentication system
 # full featured customer relationship management
